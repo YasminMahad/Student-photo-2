@@ -12,6 +12,7 @@ li {
     float: left;
     width: 25%;
     padding: 1px;
+    display: flex;
 
 }
 
